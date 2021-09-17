@@ -1,0 +1,13 @@
+@import "css/reset.css";
+@import "css/bread.css";
+@import "css/header/index.css";
+@import "css/card/index.css";
+@import "css/content/index.css";
+@import "css/hero-background.css";
+@import "css/menu.css";
+@import "css/footer.css";
+
+:root {
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica,
+    Arial, sans-serif;
+}
